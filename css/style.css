@@ -1,0 +1,278 @@
+#topHead {
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#borderItem {
+    border: 2px solid #E5FEFF;
+    opacity: 1;
+}
+
+#logoFix {
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+
+.nav-link {
+    text-align: left;
+    font: normal normal normal 20px/26px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.imgRow {
+    height: 500px;
+}
+
+.heroImage {
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+#innerCont {
+    padding: 85px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 0.8;
+}
+
+#innerCont h1 {
+    text-align: center;
+    font: normal normal normal 45px/57px "Dosis";
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+#innerCont p {
+    text-align: center;
+    font: normal normal normal 16px/20px "Source Sans Pro";
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.heroImage2 {
+    background-image: url("../images/bg2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+
+.roomsTitle {
+    text-align: center;
+    font: normal normal normal 35px/44px "Dosis";
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.card-title {
+    text-align: left;
+    font: normal normal normal 25px/32px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.card {
+    width: 23rem;
+}
+
+.packageHeader {
+    text-align: center;
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.packageTitle {
+    text-align: left;
+    font: normal normal normal 25px/32px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.packagePrice {
+    text-align: left;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1F51A8;
+    opacity: 1;
+}
+
+.packageDes {
+    text-align: left;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.heroImage3 {
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+
+.heroImage4 {
+    background-image: url("../images/hamsterreserve.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+#infoText {
+    text-align: left;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+#infoTitle {
+    text-align: left;
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+#infoTitle p {
+    text-align: left;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.resBtn {
+    background: #004CC7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+li {
+    text-align: left;
+    font: normal normal normal 16px "Source Sans Pro";
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+#reserveTopM {
+    margin-top: 72px;
+    padding: 10px 50px 10px 50px;
+    font: normal normal bold 20px/25px Source Sans Pro;
+}
+
+#reserveMidM {
+    margin-top: 72px;
+    padding: 10px 50px 10px 50px;
+    font: normal normal bold 20px/25px Source Sans Pro;
+}
+
+#reserveBotM {
+    margin-top: 20px;
+    padding: 10px 50px 10px 50px;
+    font: normal normal bold 20px/25px Source Sans Pro;
+}
+
+#roomService {
+    height: 105px;
+    font: normal normal bold 20px/25px Source Sans Pro;
+}
+
+#parkingAmen {
+    height: 107px;
+    width: 104px;
+    margin-bottom: 20px;
+    font: normal normal bold 20px/25px Source Sans Pro;
+}
+
+.amenTitle {
+    text-align: left;
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#amenDes {
+    text-align: center;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#poolAmen {
+    height: 102px;
+    font: normal normal bold 20px/25px Source Sans Pro;
+}
+
+#resCont {
+    padding: 100px 0 100px 0;
+}
+
+.reserveCont {
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+}
+
+#resRoomTitle {
+    text-align: center;
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.optionTitles {
+    text-align: left;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+#checkBtnId {
+    margin-top: 40px;
+    text-align: center;
+    font: normal normal bold 20px/25px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.botCont {
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.botText {
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.addWhite {
+    color: white;
+}
+
+.custom-toggler.navbar-toggler { 
+    border-color: white; 
+}
+.navbar-toggler-icon{ 
+    color: white; 
+} 
